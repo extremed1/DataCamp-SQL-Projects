@@ -1,2 +1,2 @@
 # DataCamp-SQL-Projects
-Code for unguided sql datacamp projects
+Jupyter Notebook files containing code for each SQL unguided project is provided.
